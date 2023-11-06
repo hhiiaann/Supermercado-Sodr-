@@ -109,3 +109,15 @@ margin: 20px 0;
   tranition: 1s all;
   cursor: pointer;
 }
+ .enviar:hover{
+   background: darkorange;
+   transorm: scale(1,2);
+ }
+  table(
+   margin:20px 0 40px;
+}
+  thead{
+   background: #555555;
+   color: white;
+   ont-weight:bold;
+  }
